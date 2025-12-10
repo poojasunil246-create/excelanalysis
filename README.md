@@ -26,5 +26,5 @@ This collection showcases the work I’ve done using Microsoft Excel, including 
 Formulas: VLOOKUP, XLOOKUP, INDEX-MATCH, IF, SUMIFS, COUNTIFS
 Data Tools: Remove Duplicates, Text to Columns, Flash Fill
 Visualization: Pivot Charts, Slicers, Conditional Formatting
-Dashboards: KPI Cards, Trend Charts, Filters
+Dashboards: KPI Cards, Trend Charts, Filters..
 
